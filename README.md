@@ -1,0 +1,4 @@
+实现加解密功能，利用mybatis拦截器统一实现，不侵入业务代码。
+SecurityInterceptorConfig基础信息配置文件。
+SecurityAutoConfiguration数据初始化文件，加载待加密字段数据。
+SecurityInterceptor加密拦截器
